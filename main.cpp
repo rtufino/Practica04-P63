@@ -9,6 +9,8 @@ using namespace std;
 int main()
 {
     cout << "== SALARIOS ==" << endl;
+    cout << "Autor: Rodrigo Tufiño" << endl << endl;
+
     Persona p("1717235467", "Rodrigo Tufiño");
     cout << p.informacion() << endl;
 
